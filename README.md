@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Sukhraj Dhaliwal
+<img src="https://img.shields.io/badge/-Sacramento%20State%20University%20%7C%20B.S.%20Computer%20Engineering-00563F?&style=for-the-badge&logoColor=FFD700" /> 
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-<!--
-**SKRJSingh/SKRJSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a passion for IT/CyberSecurity and am eager to learn. This page is a helpful way to keep track of labs I have done and be able to share them!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-00A9E0?&style=for-the-badge&logoColor=white" />
+
+## Projects
+- Active Directory and GPO 
+- SIEM
+- Wireshark
