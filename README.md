@@ -11,5 +11,5 @@ I have a passion for IT/CyberSecurity and am eager to learn. This page is a help
 
 ## Projects
 - Active Directory and GPO 
-- SIEM
 - Wireshark
+- <a href="https://github.com/SKRJSingh/Wazuh-SIEM-Home-Lab">SIEM Lab</a>
