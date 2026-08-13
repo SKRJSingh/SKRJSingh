@@ -10,6 +10,6 @@ I have a passion for IT/CyberSecurity and am eager to learn and work. This page 
 <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-00A9E0?&style=for-the-badge&logoColor=white" />
 
 ## Projects
-- Active Directory and GPO 
+- <a href="https://github.com/SKRJSingh/ActiveDirectory-GPO-Lab">ActiveDirectory-GPO-Lab</a>
 - Wireshark
 - <a href="https://github.com/SKRJSingh/Wazuh-SIEM-Home-Lab">SIEM Lab</a>
