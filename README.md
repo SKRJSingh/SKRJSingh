@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/-Sacramento%20State%20University%20%7C%20B.S.%20Computer%20Engineering-00563F?&style=for-the-badge&logoColor=FFD700" /> 
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-I have a passion for IT/CyberSecurity and am eager to learn. This page is a helpful way to keep track of labs I have done and be able to share them!
+I have a passion for IT/CyberSecurity and am eager to learn and work. This page is a helpful way to keep track of labs I have done and be able to share them!
 
 
 ## Tools
