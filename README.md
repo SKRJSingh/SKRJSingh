@@ -11,5 +11,5 @@ I have a passion for IT/CyberSecurity and am eager to learn and work. This page 
 
 ## Projects
 - <a href="https://github.com/SKRJSingh/ActiveDirectory-GPO-Lab">ActiveDirectory-GPO-Lab</a>
-- Wireshark
+- <a href="https://github.com/SKRJSingh/Wireshark-Network-Traffic-Analysis">Wireshark Lab</a>
 - <a href="https://github.com/SKRJSingh/Wazuh-SIEM-Home-Lab">SIEM Lab</a>
